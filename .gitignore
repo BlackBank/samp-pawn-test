@@ -1,0 +1,4 @@
+*.exe
+dependencies/
+server.cfg
+server_log.txt
